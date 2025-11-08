@@ -22,7 +22,6 @@ Research Interests
 2. Antimicrobial resistance
 3. AI in identification RNA virus.
 
-
 Publication
 ======
 Representative publications (including preprint and under preparation)
@@ -41,6 +40,47 @@ Representative publications (including preprint and under preparation)
   </div>
 </div>
 
+<!-- 示例论文条目 -->
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <!-- 左侧图片 -->
+  <img src="https://gaoyangluo.github.io/images/artiles/rider_temperal.png" alt="Paper Image" style="width: 180px; height: 160px; object-fit: cover; margin-right: 20px;">
+
+  <!-- 右侧文字内容 -->
+  <div>
+    <h4 style="margin: 0;">📄 <a href="https://github.com/emblab-westlake/Rider" target="_blank">Expanding the RNA Virus Universe by Deep Learning Discovery with Rider</a></h4>
+    <p style="margin: 5px 0;"><strong>Authors:</strong> Gaoyang Luo#, Zelin Zang#, Ling Yuan, Jingbo Zhou, Ao Dong, Yufei Huang, Stan Z. Li, Feng Ju*</p>
+    <p style="margin: 5px 0;"><strong>Software:</strong> Open-sourced</p>
+    <p style="margin: 5px 0;">Identification of RNA virus using deep learning</p>
+  </div>
+</div>
+
+<!-- AMR_plastisphere_review -->
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <!-- 左侧图片 -->
+  <img src="https://gaoyangluo.github.io/images/artiles/AMR_plastisphere.png" alt="Paper Image" style="width: 180px; height: 160px; object-fit: cover; margin-right: 20px;">
+
+  <!-- 右侧文字内容 -->
+  <div>
+    <h4 style="margin: 0;">📄 <a href="https://pubs.acs.org/doi/full/10.1021/acs.est.5c00246" target="_blank">Determining Antimicrobial Resistance in the Plastisphere: Lower Risks of Nonbiodegradable vs Higher Risks of Biodegradable Microplastics</a></h4>
+    <p style="margin: 5px 0;"><strong>Authors:</strong> Gaoyang Luo, Lu Fan, Bin Liang, Jianhua Guo, Shu-Hong Gao*</p>
+    <p style="margin: 5px 0;"><strong>Software:</strong> Open-sourced</p>
+    <p style="margin: 5px 0;">Quantifing the AMR risk in the plastisphere</p>
+  </div>
+</div>
+
+<!-- AMR_plastisphere_research -->
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <!-- 左侧图片 -->
+  <img src="https://gaoyangluo.github.io/images/artiles/AMR_plastisphere_review.png" alt="Paper Image" style="width: 180px; height: 160px; object-fit: cover; margin-right: 20px;">
+
+  <!-- 右侧文字内容 -->
+  <div>
+    <h4 style="margin: 0;">📄 <a href="https://pubs.acs.org/doi/full/10.1021/acs.est.3c01128" target="_blank">Determining Antimicrobial Resistance in the Plastisphere: Lower Risks of Nonbiodegradable vs Higher Risks of Biodegradable Microplastics</a></h4>
+    <p style="margin: 5px 0;"><strong>Authors:</strong> Gaoyang Luo, Bin Liang, Hanlin Cui, Yuanyuan Kang, Xu Zhou, Yu Tao, Lu Lu, Lu Fan, Jianhua Guo, Aijie Wang, *Shu-Hong Gao*</p>
+    <p style="margin: 5px 0;"><strong>Software:</strong> Open-sourced</p>
+    <p style="margin: 5px 0;">Review of AMR risk in the plastisphere</p>
+  </div>
+</div>
 
 
 <!-- The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header.  -->
