@@ -15,7 +15,6 @@ I'm now a PhD student in Medicine at [Microbiome Research Center](https://microb
 I'm also long-term visiting reseracher at [Center for Artificial Intelligence Research and Innovation (CAIRI AI Lab)](https://www.westlake.edu.cn/), led by [Prof. Stan Z. Li](https://scholar.google.com/citations?user=Y-nyLGIAAAAJ&hl=zh-CN) and [Environmental Science and Engineering Environmental Microbiome and Biotechnology Laboratory (EMBLab)](http://www.ju-emblab.com/), led by [Dr. Feng Ju](http://www.ju-emblab.com/nd.jsp?id=7). There I am engaging with AI for Science (AI4Sci), particularly on RNA virus indentification and microbial language model. I was also honored to be a intern student and research assistant udner supervision the [Dr. Yu li](https://scholar.google.com/citations?user=MrruUUQAAAAJ&hl=en&oi=ao) at The Chinese University of Hong Kong (CUHK), where I stared my journey on AI4Science by transfering from bioinfomatics.
 
 
-
 Research Interests
 ======
 1. Biological Foundation model (DNA, RNA, Amino acids).
@@ -29,7 +28,7 @@ Representative publications (including preprint and under preparation)
 <!-- 示例论文条目 -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <!-- 左侧图片 -->
-  <img src="https://gaoyangluo.github.io/images/artiles/compranking_pipeline.png" alt="Paper Image" style="width: 180px; height: 160px; object-fit: cover; margin-right: 20px;">
+  <img src="https://gaoyangluo.github.io/images/artiles/compranking_pipeline.png" alt="Paper Image" style="width: 300px; height: 160px; object-fit: cover; margin-right: 20px;">
 
   <!-- 右侧文字内容 -->
   <div>
@@ -43,7 +42,7 @@ Representative publications (including preprint and under preparation)
 <!-- 示例论文条目 -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <!-- 左侧图片 -->
-  <img src="https://gaoyangluo.github.io/images/artiles/rider_temperal.png" alt="Paper Image" style="width: 180px; height: 160px; object-fit: cover; margin-right: 20px;">
+  <img src="https://gaoyangluo.github.io/images/artiles/rider_temperal.png" alt="Paper Image" style="width: 300px; height: 160px; object-fit: cover; margin-right: 20px;">
 
   <!-- 右侧文字内容 -->
   <div>
@@ -57,7 +56,7 @@ Representative publications (including preprint and under preparation)
 <!-- AMR_plastisphere_review -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <!-- 左侧图片 -->
-  <img src="https://gaoyangluo.github.io/images/artiles/AMR_plastisphere.png" alt="Paper Image" style="width: 180px; height: 160px; object-fit: cover; margin-right: 20px;">
+  <img src="https://gaoyangluo.github.io/images/artiles/AMR_plastisphere.png" alt="Paper Image" style="width: 300px; height: 160px; object-fit: cover; margin-right: 20px;">
 
   <!-- 右侧文字内容 -->
   <div>
@@ -71,7 +70,7 @@ Representative publications (including preprint and under preparation)
 <!-- AMR_plastisphere_research -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <!-- 左侧图片 -->
-  <img src="https://gaoyangluo.github.io/images/artiles/AMR_plastisphere_review.png" alt="Paper Image" style="width: 180px; height: 160px; object-fit: cover; margin-right: 20px;">
+  <img src="https://gaoyangluo.github.io/images/artiles/AMR_plastisphere_review.png" alt="Paper Image" style="width: 300px; height: 160px; object-fit: cover; margin-right: 20px;">
 
   <!-- 右侧文字内容 -->
   <div>
