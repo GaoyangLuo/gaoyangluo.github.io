@@ -10,7 +10,7 @@ redirect_from:
 About 
 ======
 
-I'm now a PhD student in Medicine at [Microbiome Research Center](https://microbiome.org.au/), University of New South Wales. Under supervision by [Prof. Emad El-Omer](https://scholar.google.com/citations?user=PRm8VmMAAAAJ&hl=en) and [Dr. Xiaotao Jiang](https://scholar.google.com/citations?user=Xp-W0XQAAAAJ&hl=en).Focuing on AMR problem in large cohort of Austrilian population.
+I'm now a PhD student in Medicine at [Microbiome Research Center](https://microbiome.org.au/), University of New South Wales. Under supervision by [Prof. Emad El-Omer](https://scholar.google.com/citations?user=PRm8VmMAAAAJ&hl=en) and [Dr. Xiaotao Jiang](https://scholar.google.com/citations?user=Xp-W0XQAAAAJ&hl=en). Focuing on AMR problem in large cohort of Austrilian population.
 
 I'm also long-term visiting reseracher at [Center for Artificial Intelligence Research and Innovation (CAIRI AI Lab)](https://www.westlake.edu.cn/), led by [Prof. Stan Z. Li](https://scholar.google.com/citations?user=Y-nyLGIAAAAJ&hl=zh-CN) and [Environmental Science and Engineering Environmental Microbiome and Biotechnology Laboratory (EMBLab)](http://www.ju-emblab.com/), led by [Dr. Feng Ju](http://www.ju-emblab.com/nd.jsp?id=7). There I am engaging with AI for Science (AI4Sci), particularly on RNA virus indentification and microbial language model. I was also honored to be a intern student and research assistant udner supervision by [Dr. Yu Li](https://scholar.google.com/citations?user=MrruUUQAAAAJ&hl=en&oi=ao) at The Chinese University of Hong Kong (CUHK), where I stared my journey on AI4Science by transfering from bioinfomatics.
 
@@ -21,19 +21,25 @@ Research Interests
 2. Antimicrobial resistance
 3. AI in identification RNA virus.
 
+Education
+======
+2025.05 - Present  Ph.D at University of New South Wales (UNSW)
+2020.09 - 2023.06  M.Phil at Harbin Institute of Technology (HIT)
+2016.09 - 2020.06  B.sc at Jilin Agricultural University (JLAU)
+
 Publication & Software
 ======
 Representative publications (including preprint and under preparation)
-------
+
 <!-- 示例论文条目 -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <!-- 左侧图片 -->
-  <img src="https://gaoyangluo.github.io/images/artiles/compranking_pipeline.png" alt="Paper Image" style="width: 300px; height: 160px; object-fit: cover; margin-right: 20px;">
+  <img src="https://gaoyangluo.github.io/images/artiles/compranking_pipeline.png" alt="Paper Image" style="width: 300px; height: auto; object-fit: cover; margin-right: 20px;">
 
   <!-- 右侧文字内容 -->
   <div>
     <h4 style="margin: 0;">📄 <a href="https://github.com/GaoyangLuo/CompRanking" target="_blank">CompRanking: a pipeline for quantitatively ranking the risk antimicrobial resistance in environmental metagenomic samples</a></h4>
-    <p style="margin: 5px 0;"><strong>Authors:</strong> <strong>Gaoyang Luo</strong> </p>
+    <p style="margin: 5px 0;"><strong>Authors:</strong> <strong>Gaoyang Luo</strong></p>
     <p style="margin: 5px 0;"><strong>Software:</strong> Open-sourced</p>
     <p style="margin: 5px 0;">This pipeline is used to quantitatively ranking AMR risk in environmental metagenomic samples</p>
   </div>
@@ -42,7 +48,7 @@ Representative publications (including preprint and under preparation)
 <!-- Rider-article -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <!-- 左侧图片 -->
-  <img src="https://gaoyangluo.github.io/images/artiles/rider_temperal.png" alt="Paper Image" style="width: 300px; height: 160px; object-fit: cover; margin-right: 20px;">
+  <img src="https://gaoyangluo.github.io/images/artiles/rider_temperal.png" alt="Paper Image" style="width: 300px; height: auto; object-fit: cover; margin-right: 20px;">
 
   <!-- 右侧文字内容 -->
   <div>
@@ -56,12 +62,12 @@ Representative publications (including preprint and under preparation)
 <!-- Rider-software -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <!-- 左侧图片 -->
-  <img src="https://gaoyangluo.github.io/images/artiles/Rider_pipleline.png" alt="Paper Image" style="width: 300px; height: 160px; object-fit: cover; margin-right: 20px;">
+  <img src="https://gaoyangluo.github.io/images/artiles/Rider_pipleline.png" alt="Paper Image" style="width: 300px; height: auto; object-fit: cover; margin-right: 20px;">
 
   <!-- 右侧文字内容 -->
   <div>
     <h4 style="margin: 0;">📄 <a href="https://github.com/emblab-westlake/Rider" target="_blank">Rider: A deep learning added method for fast RNA identification</a></h4>
-    <p style="margin: 5px 0;"><strong>Authors:</strong> <strong>Gaoyang Luo</strong> </p>
+    <p style="margin: 5px 0;"><strong>Authors:</strong> <strong>Gaoyang Luo</strong></p>
     <p style="margin: 5px 0;"><strong>Software:</strong> Open-sourced</p>
     <p style="margin: 5px 0;">Identification of RNA virus using deep learning</p>
   </div>
@@ -70,12 +76,12 @@ Representative publications (including preprint and under preparation)
 <!-- AMR_plastisphere_review -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <!-- 左侧图片 -->
-  <img src="https://gaoyangluo.github.io/images/artiles/AMR_plastisphere.png" alt="Paper Image" style="width: 300px; height: 160px; object-fit: cover; margin-right: 20px;">
+  <img src="https://gaoyangluo.github.io/images/artiles/AMR_plastisphere.png" alt="Paper Image" style="width: 300px; height: auto; object-fit: cover; margin-right: 20px;">
 
   <!-- 右侧文字内容 -->
   <div>
     <h4 style="margin: 0;">📄 <a href="https://pubs.acs.org/doi/full/10.1021/acs.est.5c00246" target="_blank">Determining Antimicrobial Resistance in the Plastisphere: Lower Risks of Nonbiodegradable vs Higher Risks of Biodegradable Microplastics</a></h4>
-    <p style="margin: 5px 0;"><strong>Authors:</strong> <strong>Gaoyang Luo</strong> , Lu Fan, Bin Liang, Jianhua Guo, Shu-Hong Gao*</p>
+    <p style="margin: 5px 0;"><strong>Authors:</strong> <strong>Gaoyang Luo</strong>, Lu Fan, Bin Liang, Jianhua Guo, Shu-Hong Gao*</p>
     <p style="margin: 5px 0;"><strong>Journal Article:</strong> Environmental Science & Technology, 2025 (Nature Index Journal, Q1 Top)</p>
     <p style="margin: 5px 0;">Quantifing the AMR risk in the plastisphere</p>
   </div>
@@ -84,12 +90,12 @@ Representative publications (including preprint and under preparation)
 <!-- AMR_plastisphere_research -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <!-- 左侧图片 -->
-  <img src="https://gaoyangluo.github.io/images/artiles/AMR_plastisphere_review.png" alt="Paper Image" style="width: 300px; height: 160px; object-fit: cover; margin-right: 20px;">
+  <img src="https://gaoyangluo.github.io/images/artiles/AMR_plastisphere_review.png" alt="Paper Image" style="width: 300px; height: auto; object-fit: cover; margin-right: 20px;">
 
   <!-- 右侧文字内容 -->
   <div>
     <h4 style="margin: 0;">📄 <a href="https://pubs.acs.org/doi/full/10.1021/acs.est.3c01128" target="_blank">Determining Antimicrobial Resistance in the Plastisphere: Lower Risks of Nonbiodegradable vs Higher Risks of Biodegradable Microplastics</a></h4>
-    <p style="margin: 5px 0;"><strong>Authors:</strong> <strong>Gaoyang Luo</strong> , Bin Liang, Hanlin Cui, Yuanyuan Kang, Xu Zhou, Yu Tao, Lu Lu, Lu Fan, Jianhua Guo, Aijie Wang, *Shu-Hong Gao*</p>
+    <p style="margin: 5px 0;"><strong>Authors:</strong> <strong>Gaoyang Luo</strong>, Bin Liang, Hanlin Cui, Yuanyuan Kang, Xu Zhou, Yu Tao, Lu Lu, Lu Fan, Jianhua Guo, Aijie Wang, *Shu-Hong Gao*</p>
     <p style="margin: 5px 0;"><strong>Journal Article:</strong> Environmental Science & Technology, 2023 (Nature Index Journal, Q1 Top)</p>
     <p style="margin: 5px 0;">Review of AMR risk in the plastisphere</p>
   </div>
