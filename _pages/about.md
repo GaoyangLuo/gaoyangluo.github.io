@@ -96,7 +96,7 @@ Representative publications (including preprint and under preparation)
 
   <!-- 右侧文字内容 -->
   <div>
-    <h4 style="margin: 0;">📄 <a href="https://github.com/emblab-westlake/Rider" target="_blank">(Comming soon)A deep learning added method for fast RNA identification</a></h4>
+    <h4 style="margin: 0;">📄 <a href="https://github.com/emblab-westlake/Rider" target="_blank">(Comming soon)A deep learning method for fast RNA identification</a></h4>
     <p style="margin: 5px 0;"><strong>Authors:</strong> <strong>Gaoyang Luo</strong></p>
     <p style="margin: 5px 0;"><strong>Software:</strong> Open-sourced</p>
     <p style="margin: 5px 0;">Identification of RNA virus using deep learning</p>
