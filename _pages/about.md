@@ -31,7 +31,7 @@ Publication & Software
 ======
 Representative publications (including preprint and under preparation)
 
-<!-- 示例论文条目 -->
+<!-- compranking_software -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <!-- 左侧图片 -->
   <img src="https://gaoyangluo.github.io/images/artiles/compranking_pipeline.png" alt="Paper Image" style="width: 300px; height: auto; object-fit: cover; margin-right: 20px;">
@@ -75,6 +75,33 @@ Representative publications (including preprint and under preparation)
   </div>
 </div>
 
+<!-- Rider-article -->
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <!-- 左侧图片 -->
+  <img src="https://gaoyangluo.github.io/images/artiles/rider_temperal1.png" alt="Paper Image" style="width: 300px; height: auto; object-fit: cover; margin-right: 20px;">
+
+  <!-- 右侧文字内容 -->
+  <div>
+    <h4 style="margin: 0;">📄 <a href="https://github.com/emblab-westlake/Rider" target="_blank">(Comming soon)Expanding the RNA Virus Universe by Deep Learning Discovery </a></h4>
+    <p style="margin: 5px 0;"><strong>Authors:</strong> <strong>Gaoyang Luo#</strong>, Zelin Zang#, Ling Yuan, Jingbo Zhou, Ao Dong, Yufei Huang, Stan Z. Li, Feng Ju*</p>
+    <p style="margin: 5px 0;"><strong>Journal Artile:</strong> ArXiv</p>
+    <p style="margin: 5px 0;">Identification of RNA virus using deep learning</p>
+  </div>
+</div>
+
+<!-- Rider-software
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <!-- 左侧图片 -->
+  <img src="https://gaoyangluo.github.io/images/artiles/Rider_pipleline1.png" alt="Paper Image" style="width: 300px; height: auto; object-fit: cover; margin-right: 20px;">
+
+  <!-- 右侧文字内容 -->
+  <div>
+    <h4 style="margin: 0;">📄 <a href="https://github.com/emblab-westlake/Rider" target="_blank">(Comming soon)A deep learning added method for fast RNA identification</a></h4>
+    <p style="margin: 5px 0;"><strong>Authors:</strong> <strong>Gaoyang Luo</strong></p>
+    <p style="margin: 5px 0;"><strong>Software:</strong> Open-sourced</p>
+    <p style="margin: 5px 0;">Identification of RNA virus using deep learning</p>
+  </div>
+</div> 
 
 <!-- The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header.  -->
 
