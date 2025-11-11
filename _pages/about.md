@@ -12,7 +12,7 @@ About
 
 I'm now a PhD student in Medicine at [Microbiome Research Center](https://microbiome.org.au/), University of New South Wales. Under supervision by [Prof. Emad El-Omer](https://scholar.google.com/citations?user=PRm8VmMAAAAJ&hl=en) and [Dr. Xiaotao Jiang](https://scholar.google.com/citations?user=Xp-W0XQAAAAJ&hl=en). Focuing on AMR problem in large cohort of Austrilian population.
 
-I'm also long-term visiting reseracher at [Center for Artificial Intelligence Research and Innovation (CAIRI AI Lab)](https://www.westlake.edu.cn/), led by [Prof. Stan Z. Li](https://scholar.google.com/citations?user=Y-nyLGIAAAAJ&hl=zh-CN) and [Environmental Science and Engineering Environmental Microbiome and Biotechnology Laboratory (EMBLab)](http://www.ju-emblab.com/), led by [Dr. Feng Ju](http://www.ju-emblab.com/nd.jsp?id=7). There I am engaging with AI for Science (AI4Sci), particularly on RNA virus indentification and microbial language model. I was also honored to be a intern student and research assistant udner supervision by [Dr. Yu Li](https://scholar.google.com/citations?user=MrruUUQAAAAJ&hl=en&oi=ao) at The Chinese University of Hong Kong (CUHK), where I stared my journey on AI4Science by transfering from bioinfomatics.
+I'm also long-term visiting reseracher from 2024 at [Center for Artificial Intelligence Research and Innovation (CAIRI AI Lab)](https://www.westlake.edu.cn/), led by [Prof. Stan Z. Li](https://scholar.google.com/citations?user=Y-nyLGIAAAAJ&hl=zh-CN) and [Environmental Science and Engineering Environmental Microbiome and Biotechnology Laboratory (EMBLab)](http://www.ju-emblab.com/), led by [Dr. Feng Ju](http://www.ju-emblab.com/nd.jsp?id=7). There I am engaging with AI for Science (AI4Sci), particularly on RNA virus indentification and microbial language model. I was also honored to be a intern student and research assistant udner supervision by [Dr. Yu Li](https://scholar.google.com/citations?user=MrruUUQAAAAJ&hl=en&oi=ao) at The Chinese University of Hong Kong (CUHK) from 2022, where I stared my journey on AI4Science by transfering from bioinfomatics.
 
 
 Research Interests
@@ -26,6 +26,13 @@ Education
 - 2025.05 - Present  Ph.D at University of New South Wales (UNSW)
 - 2020.09 - 2023.06  M.Phil at Harbin Institute of Technology (HIT)
 - 2016.09 - 2020.06  B.sc at Jilin Agricultural University (JLAU)
+
+Internship
+======
+- 2025.05 - present  Visiting scholoar at CAIRI and EMBLab, Westlake University (Full time)
+- 2024.01 - 2025.05  Research assistant at CAIRI and EMBLab, Westlake University (Full time)
+- 2023.09 - 2025.05  Research intern at UNSW Microbiome Research Center, Univeristy of New South Wales (UNSW)
+- 2022.12 - 2023.08  Research intern and research assistant in AI for Healthcare Group at The Chinese University of Hong Kong (CUHK).
 
 Publication & Software
 ======
