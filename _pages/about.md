@@ -29,7 +29,7 @@ Education
 
 Internship
 ======
-- 2025.05 - present  Visiting scholoar at CAIRI and EMBLab, Westlake University (Full time)
+- 2025.05 - present  Visiting scholoar at CAIRI and EMBLab, Westlake University
 - 2024.01 - 2025.05  Research assistant at CAIRI and EMBLab, Westlake University (Full time)
 - 2023.09 - 2025.05  Research intern at UNSW Microbiome Research Center, Univeristy of New South Wales (UNSW)
 - 2022.12 - 2023.08  Research intern and research assistant in AI for Healthcare Group at The Chinese University of Hong Kong (CUHK).
