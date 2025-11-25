@@ -91,7 +91,7 @@ Representative publications (including preprint and under preparation)
   <div>
     <h4 style="margin: 0;">📄 <a href="https://github.com/emblab-westlake/Rider" target="_blank">Expanding the RNA Virus Universe by Deep Learning Discovery </a></h4>
     <p style="margin: 5px 0;"><strong>Authors:</strong> <strong>Gaoyang Luo#</strong>, Zelin Zang#, Ling Yuan, Jingbo Zhou, Ao Dong, Yufei Huang, Stan Z. Li, Feng Ju*</p>
-    <p style="margin: 5px 0;"><strong>Journal Artile:</strong> BioRXiv</p>
+    <p style="margin: 5px 0;"><strong>Journal Artile:</strong> BioRxiv</p>
     <p style="margin: 5px 0;">Identification of RNA virus using Deep Learning</p>
   </div>
 </div>
