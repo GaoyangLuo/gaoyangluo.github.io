@@ -85,7 +85,7 @@ Representative publications (including preprint and under preparation)
 <!-- Rider-article -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <!-- 左侧图片 -->
-  <img src="https://gaoyangluo.github.io/images/artiles/Rider_workflow_3.png" alt="Paper Image" style="width: 300px; height: auto; object-fit: cover; margin-right: 20px;">
+  <img src="https://gaoyangluo.github.io/images/artiles/rider_experiment.png" alt="Paper Image" style="width: 300px; height: auto; object-fit: cover; margin-right: 20px;">
 
   <!-- 右侧文字内容 -->
   <div>
@@ -96,7 +96,7 @@ Representative publications (including preprint and under preparation)
   </div>
 </div>
 
-<!-- Rider-software
+<!-- Rider-software -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <!-- 左侧图片 -->
   <img src="https://gaoyangluo.github.io/images/artiles/Rider_workflow_3.png" alt="Paper Image" style="width: 300px; height: auto; object-fit: cover; margin-right: 20px;">
