@@ -75,7 +75,7 @@ Representative publications (including preprint and under preparation)
 
   <!-- 右侧文字内容 -->
   <div>
-    <h4 style="margin: 0;">📄 <a href="https://pubs.acs.org/doi/full/10.1021/acs.est.3c01128" target="_blank">Determining Antimicrobial Resistance in the Plastisphere: Lower Risks of Nonbiodegradable vs Higher Risks of Biodegradable Microplastics</a></h4>
+    <h4 style="margin: 0;">📄 <a href="https://pubs.acs.org/doi/full/10.1021/acs.est.3c01128" target="_blank">Determining the Contribution of Micro/Nanoplastics to Antimicrobial Resistance: Challenges and Perspectives</a></h4>
     <p style="margin: 5px 0;"><strong>Authors:</strong> <strong>Gaoyang Luo</strong>, Bin Liang, Hanlin Cui, Yuanyuan Kang, Xu Zhou, Yu Tao, Lu Lu, Lu Fan, Jianhua Guo, Aijie Wang, *Shu-Hong Gao*</p>
     <p style="margin: 5px 0;"><strong>Journal Article:</strong> Environmental Science & Technology, 2023 (Nature Index Journal, Q1 Top)</p>
     <p style="margin: 5px 0;">Review of AMR risk in the plastisphere</p>
