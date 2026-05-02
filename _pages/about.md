@@ -9,18 +9,21 @@ redirect_from:
 
 About 
 ======
-I'm a reseracher at [Center for Artificial Intelligence Research and Innovation (CAIRI AI Lab)](https://www.westlake.edu.cn/), led by [Prof. Stan Z. Li](https://scholar.google.com/citations?user=Y-nyLGIAAAAJ&hl=zh-CN) and [Environmental Science and Engineering Environmental Microbiome and Biotechnology Laboratory (EMBLab)](http://www.ju-emblab.com/), led by [Dr. Feng Ju](http://www.ju-emblab.com/nd.jsp?id=7). There I am engaging with AI for Science (AI4Sci), particularly on RNA virus indentification and microbial language model. I was also honored to be a intern student and research assistant udner supervision by [Dr. Yu Li](https://scholar.google.com/citations?user=MrruUUQAAAAJ&hl=en&oi=ao) at The Chinese University of Hong Kong (CUHK) from 2022 to 2023, where I stared my journey on AI4Science.
+I'm a reseracher at [Center for Artificial Intelligence Research and Innovation (CAIRI AI Lab)](https://www.westlake.edu.cn/), led by [Prof. Stan Z. Li](https://scholar.google.com/citations?user=Y-nyLGIAAAAJ&hl=zh-CN) and [Environmental Science and Engineering Environmental Microbiome and Biotechnology Laboratory (EMBLab)](http://www.ju-emblab.com/), led by [Dr. Feng Ju](http://www.ju-emblab.com/nd.jsp?id=7). There I am engaging with AI for Science (AI4Sci), particularly on **protein structure prediction**, **RNA virus indentification** and **microbiome foundation model**. I was also honored to be a intern student and research assistant udner supervision by [Dr. Yu Li](https://scholar.google.com/citations?user=MrruUUQAAAAJ&hl=en&oi=ao) at The Chinese University of Hong Kong (CUHK) from 2022 to 2023, where I stared my journey on AI4Sci.
 
 
 Research Interests
 ======
+I'm now fousing on **AI virtual health** and **digital twin of healthy human**.
+
 1. Biological Foundation model (DNA, RNA, Amino acids).
-2. Antimicrobial resistance
+2. Multi-modal Mecidal Foundation model (multi-omics, clinical data)
 3. AI in identification RNA virus.
+4. Antimicrobial resistance
 
 Education and working
 ======
-- 2025.05 - 2026.03  Researcher at University of New South Wales (UNSW)
+- 2025.06 - 2026.01  Researcher at University of New South Wales (UNSW)
 - 2024.01 - 2025.05  Research assistant at Westlake University (WU)
 - 2020.09 - 2023.06  M.Phil at Harbin Institute of Technology (HIT)
 - 2016.09 - 2020.06  B.sc at Jilin Agricultural University (JLAU)
