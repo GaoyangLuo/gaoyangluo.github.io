@@ -14,7 +14,7 @@ I'm a reseracher at [Center for Artificial Intelligence Research and Innovation 
 
 Research Interests
 ======
-I'm now fousing on **AI virtual health** and **digital twin of healthy human**.
+I'm now focusing on **AI virtual health** and **digital twin of healthy human**.
 
 1. Biological Foundation model (DNA, RNA, Amino acids).
 2. Multi-modal Mecidal Foundation model (multi-omics, clinical data)
