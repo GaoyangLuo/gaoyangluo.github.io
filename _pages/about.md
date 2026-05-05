@@ -23,8 +23,7 @@ I'm now focusing on **AI virtual health** and **digital twin of healthy human**.
 
 Education and working
 ======
-- 2025.06 - 2026.04  Researcher at University of New South Wales (UNSW)
-- 2024.01 - 2025.05  Research assistant at Westlake University (WU)
+- 2024.01 - present  Research assistant at Westlake University (WU)
 - 2020.09 - 2023.06  M.Phil at Harbin Institute of Technology (HIT)
 - 2016.09 - 2020.06  B.sc at Jilin Agricultural University (JLAU)
 
