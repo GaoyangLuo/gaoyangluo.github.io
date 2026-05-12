@@ -9,7 +9,7 @@ redirect_from:
 
 About 
 ======
-I'm a reseracher at [Center for Artificial Intelligence Research and Innovation (CAIRI AI Lab)](https://www.westlake.edu.cn/), led by [Prof. Stan Z. Li](https://scholar.google.com/citations?user=Y-nyLGIAAAAJ&hl=zh-CN) and [Environmental Science and Engineering Environmental Microbiome and Biotechnology Laboratory (EMBLab)](http://www.ju-emblab.com/), led by [Dr. Feng Ju](http://www.ju-emblab.com/nd.jsp?id=7). There I am engaging with AI for Science (AI4Sci), particularly on **protein structure prediction**, **RNA virus indentification** and **microbiome foundation model**. I was also honored to be a intern student and research assistant udner supervision by [Dr. Yu Li](https://scholar.google.com/citations?user=MrruUUQAAAAJ&hl=en&oi=ao) at The Chinese University of Hong Kong (CUHK) from 2022 to 2023, where I stared my journey on AI4Sci.
+I'm a reseracher at [Center for Artificial Intelligence Research and Innovation (CAIRI AI Lab)](https://www.westlake.edu.cn/), led by [Prof. Stan Z. Li](https://scholar.google.com/citations?user=Y-nyLGIAAAAJ&hl=zh-CN) and [Environmental Science and Engineering Environmental Microbiome and Biotechnology Laboratory (EMBLab)](http://www.ju-emblab.com/), led by [Dr. Feng Ju](http://www.ju-emblab.com/nd.jsp?id=7). There I am engaging with AI for Science (AI4Sci), particularly on **protein structure prediction**, **RNA virus indentification** and **microbiome foundation model**. 
 
 
 Research Interests
