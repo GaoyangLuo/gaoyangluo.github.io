@@ -21,17 +21,18 @@ I'm now focusing on **AI virtual health** and **digital twin of healthy human**.
 3. AI in identification RNA virus.
 4. Antimicrobial resistance
 
-Education and working
+Education
 ======
-- 2024.01 - present  Research assistant at Westlake University (WU)
 - 2020.09 - 2023.06  M.Phil at Harbin Institute of Technology (HIT)
 - 2016.09 - 2020.06  B.sc at Jilin Agricultural University (JLAU)
 
-Internship
+Internship and Working
 ======
-- 2025.05 - present  Visiting scholoar at CAIRI and EMBLab, Westlake University
-- 2023.09 - 2025.05  Research intern at UNSW Microbiome Research Center, Univeristy of New South Wales (UNSW)
-- 2022.12 - 2023.08  Research intern and research assistant in AI for Healthcare Group at The Chinese University of Hong Kong (CUHK).
+- 2026.06 - present  Internship at Shanghai AI Lab
+- 2025.06 - present  Visiting scholoar at CAIRI, Westlake University
+- 2024.01 - 2025.05  Research Assistnat at CAIRI and EMBLab, Westlake University
+- 2023.09 - 2025.05  Research intern at UNSW Microbiome Research Center.
+- 2022.12 - 2023.08  Research intern in AI for Healthcare Group, Chinese University of Hong Kong.
 - 2021.4 - 2022.04   Visiting student at SUSTech.
 
 Publication & Software

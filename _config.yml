@@ -12,7 +12,7 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "Gaoyang LUO"
 title_separator          : "-"
 name                     : &name "Gaoyang LUO"
-description              : &description "Westlake University | AI Researcher | Data Scientist | Bioinformatician"
+description              : &description "AI for Science | Computational Biology"
 url                      : https://gaoyangluo.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Gaoyang LUO"
   pronouns         : # e.g., "he/him", "she/her", "they/them"  
-  bio              : "AI4Science Researcher @ Westlake University. Passionate about Machine Learning, and their applications in solving real-world microbiome problems."
-  location         : "Hangzhou, China"
-  employer         : "Westlake University"
+  bio              : "AI4Science Researcher @ Westlake University & University of New South Wales. "
+  location         : "Sydney, Australia | Shanghai & Hangzhou, China"
+  employer         : "Westlake University & Shanghai AI Laboratory & University of New South Wales"
   uri              : # URL
   email            : "lgyjsnjhit@gmail.com"
 
