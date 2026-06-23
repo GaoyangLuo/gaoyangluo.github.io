@@ -17,15 +17,13 @@ I am also an intern at Shanghai AI Laboratory, where I work with [A/Prof. Siqi S
 
 Research Interests
 ======
-I'm now focusing on **AI virtual health** and **digital twin of healthy human**.
+My research interests lie at the intersection of AI and Biology, with a particular focus on:
 
-1. AI for Science and Biological Foundation Models
+1. AI for Biology and Biological Foundation Models
 2. Computational and Regulatory Genomics
 3. Genetics and Epigenetics of Ageing
-4. RNA Virus Discovery and Viromics
-5. Microbiome Intelligence and Microbial Ecosystems
-6. Single-cell and Spatial Multiomics
-7. Digital Twins for Human Health
+4. Microbiome Intelligence and RNA Virus Discovery
+5. Digital Twins for Human Health
 
 Education
 ======
@@ -35,12 +33,12 @@ Education
 
 Internship and Working
 ======
-- 2026.06 - present   Internship at Shanghai AI Lab
-- 2025.06 - present   Visiting scholoar at CAIRI, Westlake University
-- 2024.01 - 2025.05   Research Assistnat at CAIRI and EMBLab, Westlake University
-- 2023.09 - 2025.05   Research intern at UNSW Microbiome Research Center.
-- 2022.12 - 2023.08   Research intern in AI for Healthcare Group, Chinese University of Hong Kong.
-- 2021.04 - 2022.04   Visiting student at SUSTech.
+- 2026.06 - present   Research Intern, Shanghai AI Lab
+- 2025.06 - present   Visiting Scholar, CAIRI, Westlake University
+- 2024.01 - 2025.05   Research Assistnat, CAIRI and EMBLab, Westlake University
+- 2023.09 - 2025.05   Research Intern, UNSW Microbiome Research Center.
+- 2022.12 - 2023.08   Research Intern, AI for Healthcare Group, Chinese University of Hong Kong.
+- 2021.04 - 2022.04   Visiting Student, Southern University of Science and Technology.
 
 Publication & Software
 ======
