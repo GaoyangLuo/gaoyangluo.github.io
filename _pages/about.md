@@ -33,12 +33,12 @@ Education
 
 Internship and Working
 ======
-- 2026.06 - present   Research Intern, Shanghai AI Lab
-- 2025.06 - present   Visiting Scholar, CAIRI, Westlake University
-- 2024.01 - 2025.05   Research Assistnat, CAIRI and EMBLab, Westlake University
-- 2023.09 - 2025.05   Research Intern, UNSW Microbiome Research Center.
-- 2022.12 - 2023.08   Research Intern, AI for Healthcare Group, Chinese University of Hong Kong.
-- 2021.04 - 2022.04   Visiting Student, Southern University of Science and Technology.
+- 2026.06 - present    Research Intern, Shanghai AI Lab
+- 2025.06 - present    Visiting Scholar, CAIRI, Westlake University
+- 2024.01 - 2025.05    Research Assistnat, CAIRI and EMBLab, Westlake University
+- 2023.09 - 2025.05    Research Intern, UNSW Microbiome Research Center.
+- 2022.12 - 2023.08    Research Intern, AI for Healthcare Group, Chinese University of Hong Kong.
+- 2021.04 - 2022.04    Visiting Student, Southern University of Science and Technology.
 
 Publication & Software
 ======
