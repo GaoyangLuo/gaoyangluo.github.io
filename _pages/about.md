@@ -9,20 +9,27 @@ redirect_from:
 
 About 
 ======
-I'm a reseracher at [Center for Artificial Intelligence Research and Innovation (CAIRI AI Lab)](https://www.westlake.edu.cn/), led by [Prof. Stan Z. Li](https://scholar.google.com/citations?user=Y-nyLGIAAAAJ&hl=zh-CN) and [Environmental Science and Engineering Environmental Microbiome and Biotechnology Laboratory (EMBLab)](http://www.ju-emblab.com/), led by [Dr. Feng Ju](http://www.ju-emblab.com/nd.jsp?id=7). There I am engaging with AI for Science (AI4Sci), particularly on **protein structure prediction**, **RNA virus indentification** and **microbiome foundation model**. 
+I am a PhD researcher at the University of New South Wales (UNSW), conducting research at the [Victor Chang Cardiac Research Institute](https://www.victorchang.edu.au/) in the areas of **AI for Biology**, **AI for Genomics**, and **biological foundation models**. My work focuses on developing machine learning approaches to decode how genomic sequences encode biological functions and how genetic and epigenetic programs change during ageing.
+
+Previously, I worked at [Center for Artificial Intelligence Research and Innovation (CAIRI AI Lab)](https://www.westlake.edu.cn/), led by [Prof. Stan Z. Li](https://scholar.google.com/citations?user=Y-nyLGIAAAAJ&hl=zh-CN) and [Environmental Science and Engineering Environmental Microbiome and Biotechnology Laboratory (EMBLab)](http://www.ju-emblab.com/), led by [Dr. Feng Ju](http://www.ju-emblab.com/nd.jsp?id=7). There I am engaging with AI for Science (AI4Sci), particularly on **protein structure prediction**, **RNA virus indentification** and **microbiome foundation model**. 
+I am also an intern at Shanghai AI Laboratory, where I work with [A/Prof. Siqi Sun](https://beamlab.ai/) in the [BEAM Lab](https://beamlab.ai/) on foundation models and AI-driven scientific discovery. My long-term vision is to build AI-driven digital twins of human health by integrating genomic, molecular, microbial, and clinical information across biological scales.
 
 
 Research Interests
 ======
 I'm now focusing on **AI virtual health** and **digital twin of healthy human**.
 
-1. Biological Foundation model (DNA, RNA, Amino acids).
-2. Multi-modal Mecidal Foundation model (multi-omics, clinical data)
-3. AI in identification RNA virus.
-4. Antimicrobial resistance
+1. AI for Science and Biological Foundation Models
+2. Computational and Regulatory Genomics
+3. Genetics and Epigenetics of Ageing
+4. RNA Virus Discovery and Viromics
+5. Microbiome Intelligence and Microbial Ecosystems
+6. Single-cell and Spatial Multiomics
+7. Digital Twins for Human Health
 
 Education
 ======
+- 2025.06 - Present  Ph.D at University of New South Wales (UNSW)
 - 2020.09 - 2023.06  M.Phil at Harbin Institute of Technology (HIT)
 - 2016.09 - 2020.06  B.sc at Jilin Agricultural University (JLAU)
 
