@@ -8,9 +8,17 @@ redirect_from:
 ---
 
 ## <i class="fas fa-user section-icon" aria-hidden="true"></i> About
-I am a PhD researcher at the University of New South Wales (UNSW), fully funded by the University International Postgraduate Award (UIPA), conducting research at the [Victor Chang Cardiac Research Institute](https://www.victorchang.edu.au/) on **AI for Biology**. I am also a research intern at [Shanghai AI Laboratory](https://www.shlab.org.cn/), working with [A/Prof. Siqi Sun](https://beamlab.ai/) in the [BEAM Lab](https://beamlab.ai/) on AI-driven scientific discovery, and a long-term visiting researcher at the [Center for Artificial Intelligence Research and Innovation (CAIRI AI Lab)](https://www.westlake.edu.cn/), led by [Prof. Stan Z. Li](https://scholar.google.com/citations?user=Y-nyLGIAAAAJ&hl=zh-CN). My work in AI for Science (AI4Sci) focuses on **interpretable AI for regulatory genomics**, **protein structure prediction**, **RNA virus identification**, and **microbiome foundation models**. In particular, I develop **multi-omic sequence-to-function models** that link DNA sequence to chromatin accessibility and gene expression.
+I am a PhD researcher at the University of New South Wales (UNSW), fully funded by the University International Postgraduate Award (UIPA), conducting research at the [Victor Chang Cardiac Research Institute](https://www.victorchang.edu.au/) under the supervision of [A/Prof. Emily Wong](https://www.unsw.edu.au/staff/emily-wong) (Snow Medical Fellow and NHMRC Investigator) on **AI for Biology**. I am also a research intern at [Shanghai AI Laboratory](https://www.shlab.org.cn/), working with [A/Prof. Siqi Sun](https://beamlab.ai/) in the [BEAM Lab](https://beamlab.ai/) on AI-driven scientific discovery, and a long-term visiting researcher at the [Center for Artificial Intelligence Research and Innovation (CAIRI AI Lab)](https://www.westlake.edu.cn/), led by [Prof. Stan Z. Li](https://scholar.google.com/citations?user=Y-nyLGIAAAAJ&hl=zh-CN). My work in AI for Science (AI4Sci) focuses on **interpretable AI for regulatory genomics**, **protein structure prediction**, **RNA virus identification**, and **microbiome foundation models**. In particular, I develop **multi-omic sequence-to-function models** that link DNA sequence to chromatin accessibility and gene expression.
 
 My long-term vision is to build AI-driven digital twins of human health by integrating genomic, molecular, microbial, and clinical information across biological scales.
+
+<details class="contact-panel">
+  <summary><i class="fas fa-address-card" aria-hidden="true"></i> Contact</summary>
+  <div class="contact-panel__content">
+    <p><a href="mailto:luogaoyang09@gmail.com"><i class="fas fa-envelope" aria-hidden="true"></i> luogaoyang09@gmail.com</a></p>
+    <img src="{{ base_path }}/images/wechat.jpg" alt="WeChat QR code" loading="lazy">
+  </div>
+</details>
 
 ## <i class="fas fa-microscope section-icon" aria-hidden="true"></i> Research Interests
 My research interests lie at the intersection of AI and Biology, with a particular focus on:
