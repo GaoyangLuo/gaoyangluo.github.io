@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ## <i class="fas fa-user section-icon" aria-hidden="true"></i> About
-I am a PhD researcher at the University of New South Wales (UNSW), conducting research at the [Victor Chang Cardiac Research Institute](https://www.victorchang.edu.au/) on **AI for Biology**. I am also a research intern at [Shanghai AI Laboratory](https://www.shlab.org.cn/), working with [A/Prof. Siqi Sun](https://beamlab.ai/) in the [BEAM Lab](https://beamlab.ai/) on AI-driven scientific discovery, and a long-term visiting researcher at the [Center for Artificial Intelligence Research and Innovation (CAIRI AI Lab)](https://www.westlake.edu.cn/), led by [Prof. Stan Z. Li](https://scholar.google.com/citations?user=Y-nyLGIAAAAJ&hl=zh-CN). My work in AI for Science (AI4Sci) focuses on **protein structure prediction**, **RNA virus identification**, and **microbiome foundation models**.
+I am a PhD researcher at the University of New South Wales (UNSW), conducting research at the [Victor Chang Cardiac Research Institute](https://www.victorchang.edu.au/) on **AI for Biology**. I am also a research intern at [Shanghai AI Laboratory](https://www.shlab.org.cn/), working with [A/Prof. Siqi Sun](https://beamlab.ai/) in the [BEAM Lab](https://beamlab.ai/) on AI-driven scientific discovery, and a long-term visiting researcher at the [Center for Artificial Intelligence Research and Innovation (CAIRI AI Lab)](https://www.westlake.edu.cn/), led by [Prof. Stan Z. Li](https://scholar.google.com/citations?user=Y-nyLGIAAAAJ&hl=zh-CN). My work in AI for Science (AI4Sci) focuses on **interpretable AI for regulatory genomics**, **protein structure prediction**, **RNA virus identification**, and **microbiome foundation models**. In particular, I develop **multi-omic sequence-to-function models** that link DNA sequence to chromatin accessibility and gene expression.
 
 My long-term vision is to build AI-driven digital twins of human health by integrating genomic, molecular, microbial, and clinical information across biological scales.
 
@@ -19,7 +19,8 @@ My research interests lie at the intersection of AI and Biology, with a particul
   <li>Biological Foundation Models</li>
   <li>Microbiome Intelligence and Digital Twins for Human Health</li>
   <li>Computational Genomics</li>
-  <li>RNA Virus Discovery</li>
+  <li>Interpretable Multi-omic Sequence-to-Function Regulatory Models</li>
+  <li>AI for RNA Virus Discovery</li>
 </ol>
 
 ## <i class="fas fa-bullhorn section-icon" aria-hidden="true"></i> News
