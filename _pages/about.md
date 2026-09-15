@@ -8,7 +8,11 @@ redirect_from:
 ---
 
 ## <i class="fas fa-user section-icon" aria-hidden="true"></i> About
-I am a PhD researcher at the University of New South Wales (UNSW), fully funded by the University International Postgraduate Award (UIPA), conducting research at the [Victor Chang Cardiac Research Institute](https://www.victorchang.org.au/) under the supervision of [A/Prof. Emily Wong](https://www.unsw.edu.au/staff/emily-wong) (Snow/NHMRC/ARC Future Fellow) on **AI for Biology**. I am also a research intern at [Shanghai AI Laboratory](https://www.shlab.org.cn/), working with [A/Prof. Siqi Sun](https://beamlab.ai/) in the [BEAM Lab](https://beamlab.ai/) on AI-driven scientific discovery, and a long-term visiting researcher at the [Center for Artificial Intelligence Research and Innovation (CAIRI AI Lab)](https://www.westlake.edu.cn/), led by [Prof. Stan Z. Li (IEEE Fellow)](https://scholar.google.com/citations?user=Y-nyLGIAAAAJ&hl=zh-CN). My work in AI for Science (AI4Sci) focuses on **interpretable AI for regulatory genomics**, **protein structure prediction**, **RNA virus identification**, and **microbiome foundation models**. In particular, I develop **multi-omic sequence-to-function models** that link DNA sequence to chromatin accessibility and gene expression.
+I build AI systems that learn biological function from sequence and multi-omic data.
+
+My current work focuses on **interpretable regulatory genomics**, **biological foundation models**, and **RNA virus discovery**. I develop sequence-grounded models for linking genomic sequence to regulatory state, predicting protein structure, and learning representations of microbial communities and viral sequences—towards more predictable and programmable biology.
+
+I am a PhD researcher at the University of New South Wales (UNSW), fully funded by the University International Postgraduate Award (UIPA), conducting research at the [Victor Chang Cardiac Research Institute](https://www.victorchang.org.au/) under the supervision of [A/Prof. Emily Wong](https://www.unsw.edu.au/staff/emily-wong) (Snow Medical Fellow, NHMRC Investigator, and ARC Future Fellow). I am also a research intern at [Shanghai AI Laboratory](https://www.shlab.org.cn/), working with [A/Prof. Siqi Sun](https://beamlab.ai/) in the [BEAM Lab](https://beamlab.ai/), and a long-term visiting researcher at the [Center for Artificial Intelligence Research and Innovation (CAIRI AI Lab)](https://www.westlake.edu.cn/), led by [Prof. Stan Z. Li](https://scholar.google.com/citations?user=Y-nyLGIAAAAJ&hl=zh-CN)(IEEE Fellow).
 
 My long-term vision is to build AI-driven digital twins of human health by integrating genomic, molecular, microbial, and clinical information across biological scales.
 
@@ -21,15 +25,22 @@ My long-term vision is to build AI-driven digital twins of human health by integ
 </details>
 
 ## <i class="fas fa-microscope section-icon" aria-hidden="true"></i> Research Interests
-My research interests lie at the intersection of AI and Biology, with a particular focus on:
+My research sits at the intersection of AI and biology, spanning three connected directions:
 
-<ol class="interest-list">
-  <li>Biological Foundation Models</li>
-  <li>Microbiome Intelligence and Digital Twins for Human Health</li>
-  <li>Computational Genomics</li>
-  <li>Interpretable Multi-omic Sequence-to-Function Regulatory Models</li>
-  <li>AI for RNA Virus Discovery</li>
-</ol>
+<div class="interest-list">
+  <article class="interest-item">
+    <h3>Computational Genomics &amp; Regulatory AI</h3>
+    <p>Interpretable sequence-to-function models that connect DNA sequence, chromatin accessibility, gene expression, and cellular state.</p>
+  </article>
+  <article class="interest-item">
+    <h3>Biological Foundation Models</h3>
+    <p>Foundation and representation models for microbial communities, multi-omic data, and biological sequences.</p>
+  </article>
+  <article class="interest-item">
+    <h3>AI for Molecular &amp; Viral Discovery</h3>
+    <p>Protein structure prediction and RNA virus identification from sequence and structural information.</p>
+  </article>
+</div>
 
 ## <i class="fas fa-bullhorn section-icon" aria-hidden="true"></i> News
 <div class="news-feed">

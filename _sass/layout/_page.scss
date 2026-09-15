@@ -278,7 +278,29 @@
 .interest-list {
   display: block;
   margin: 0;
-  padding-left: 1.4em;
+  padding: 0;
+}
+
+.interest-item {
+  margin: 0;
+  padding: 0.8em 0 0.85em;
+  border-bottom: 1px solid var(--global-border-color);
+
+  &:first-child { padding-top: 0.25em; }
+  &:last-child { border-bottom: 0; }
+
+  h3 {
+    margin: 0 0 0.2em;
+    font-size: 1em;
+    font-weight: 700;
+  }
+
+  p {
+    margin: 0;
+    color: var(--global-text-color-light);
+    font-size: 0.94em;
+    line-height: 1.55;
+  }
 }
 
 .timeline-list {
