@@ -16,13 +16,11 @@ I am a PhD researcher at the University of New South Wales (UNSW), fully funded 
 
 My long-term vision is to build AI-driven digital twins of human health by integrating genomic, molecular, microbial, and clinical information across biological scales.
 
-<details class="contact-panel">
-  <summary><i class="fas fa-address-card" aria-hidden="true"></i> Contact</summary>
-  <div class="contact-panel__content">
-    <p><a href="mailto:luogaoyang09@gmail.com"><i class="fas fa-envelope" aria-hidden="true"></i> luogaoyang09@gmail.com</a></p>
-    <img src="{{ base_path }}/images/wechat.jpg" alt="WeChat QR code" loading="lazy">
-  </div>
-</details>
+<p class="contact-links"><i class="fas fa-address-card" aria-hidden="true"></i>
+  <a href="mailto:luogaoyang09@gmail.com">Email</a>
+  <span aria-hidden="true"> · </span>
+  <a href="{{ base_path }}/images/wechat.jpg" target="_blank" rel="noopener">WeChat</a>
+</p>
 
 ## <i class="fas fa-microscope section-icon" aria-hidden="true"></i> Research Interests
 My research sits at the intersection of AI and biology, spanning three connected directions:
