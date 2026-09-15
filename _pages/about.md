@@ -29,7 +29,7 @@ My research sits at the intersection of AI and biology, spanning three connected
 
 <div class="interest-list">
   <article class="interest-item">
-    <h3>Computational Genomics &amp; Regulatory AI</h3>
+    <h3>Interpretable Sequence-to-Function Models</h3>
     <p>Interpretable sequence-to-function models that connect DNA sequence, chromatin accessibility, gene expression, and cellular state.</p>
   </article>
   <article class="interest-item">
@@ -45,7 +45,7 @@ My research sits at the intersection of AI and biology, spanning three connected
 ## <i class="fas fa-bullhorn section-icon" aria-hidden="true"></i> News
 <div class="news-feed">
   <ul>
-    <li><time class="news-date" datetime="2026-08">2026.08</time><span><span class="news-celebration" aria-label="celebration">🎉🎉🎉</span> Our work on deep-learning-based RNA virus discovery, <em>Expanding the RNA Virus Universe by Deep Learning Discovery</em>, was accepted by <strong>Nature Communications</strong> <span class="news-tag news-tag--nature"><span class="news-tag__pulse" aria-hidden="true"></span>Nature Portfolio</span>.</span></li>
+    <li><time class="news-date" datetime="2026-08">2026.08</time><span><span class="news-celebration" aria-label="celebration">🎉🎉🎉</span> Our work on deep-learning-based RNA virus discovery, <em>Deep learning coupled with scalable domain-specific structural validation expands RNA virus discovery from metatranscriptomes</em>, was accepted by <strong>Nature Communications</strong> <span class="news-tag news-tag--nature"><span class="news-tag__pulse" aria-hidden="true"></span>Nature Portfolio</span>.</span></li>
     <li><time class="news-date" datetime="2026-06">2026.06</time><span><span class="news-symbol" aria-hidden="true">🎓</span> Started research internships at <strong>Shanghai AI Laboratory</strong> and <strong>Fudan University</strong>.</span></li>
     <li><time class="news-date" datetime="2025-05">2025.05</time><span><span class="news-symbol" aria-hidden="true">✈️</span> Moved to Sydney and joined the <strong>University of New South Wales (UNSW)</strong>.</span></li>
     <li><time class="news-date" datetime="2024-04">2024.04</time><span><span class="news-celebration" aria-label="celebration">🎉🎉</span> Our article, <em>Determining Antimicrobial Resistance in the Plastisphere: Lower Risks of Nonbiodegradable vs Higher Risks of Biodegradable Microplastics</em>, was accepted by <strong>Environmental Science &amp; Technology</strong> <span class="news-tag news-tag--acs">ACS journal</span>.</span></li>
