@@ -17,7 +17,7 @@ I am a PhD researcher at the University of New South Wales (UNSW), fully funded 
 My long-term vision is to build AI-driven digital twins of human health by integrating genomic, molecular, microbial, and clinical information across biological scales.
 
 <p class="contact-links"><i class="fas fa-address-card" aria-hidden="true"></i>
-  <a href="mailto:luogaoyang09@gmail.com">Email</a>
+  <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=luogaoyang09@gmail.com" target="_blank" rel="noopener">Email</a>
   <span aria-hidden="true"> · </span>
   <a href="{{ base_path }}/images/wechat.jpg" target="_blank" rel="noopener">WeChat</a>
 </p>
