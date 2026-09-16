@@ -8,9 +8,7 @@ redirect_from:
 ---
 
 ## <i class="fas fa-user section-icon" aria-hidden="true"></i> About
-I build AI systems that learn biological function from sequence and multi-omic data.
-
-I work at the intersection of AI and biology, building AI for Biology methods that connect biological sequence, multi-omic measurements, and scientific questions. My work spans interpretable sequence-to-function models for regulatory biology, biological foundation models for microbial communities and multi-omic data, and AI for protein structure prediction and RNA virus discovery.
+I work on AI for Biology, building biological foundation models and computational infrastructure toward AI-driven digital twins. My current projects include microbiome foundation models and interpretable multi-omic sequence-to-function models.
 
 I am a PhD researcher at the University of New South Wales (UNSW), fully funded by the University International Postgraduate Award (UIPA), conducting research at the [Victor Chang Cardiac Research Institute](https://www.victorchang.org.au/) under the supervision of [A/Prof. Emily Wong](https://www.unsw.edu.au/staff/emily-wong) (Snow Medical Fellow, NHMRC Investigator, and ARC Future Fellow). I am also a research intern at [Shanghai AI Laboratory](https://www.shlab.org.cn/), working with [A/Prof. Siqi Sun](https://beamlab.ai/) in the [BEAM Lab](https://beamlab.ai/), and a long-term visiting researcher at the [Center for Artificial Intelligence Research and Innovation (CAIRI AI Lab)](https://www.westlake.edu.cn/), led by [Prof. Stan Z. Li](https://scholar.google.com/citations?user=Y-nyLGIAAAAJ&hl=zh-CN)(IEEE Fellow).
 
