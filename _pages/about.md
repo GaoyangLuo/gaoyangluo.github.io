@@ -64,7 +64,7 @@ My research sits at the intersection of AI and biology, spanning three connected
 Selected publications, including preprints and work in preparation.
 
 <!-- Rider-NC -->
-<div class="featured-item featured-item--article-preview">
+<div class="featured-item">
   <a class="featured-item__media" href="https://www.nature.com/articles/s41467-026-77183-y" target="_blank" aria-label="Read the Nature Communications RNA virus discovery paper">
     <img class="featured-item__image featured-item__image--screenshot" src="https://gaoyangluo.github.io/images/artiles/rider_nature_communications.png" alt="Nature Communications Rider article">
     <span class="featured-item__overlay">Read publication <i class="fas fa-arrow-up-right-from-square" aria-hidden="true"></i></span>
