@@ -64,7 +64,7 @@ My research sits at the intersection of AI and biology, spanning three connected
 Selected publications, including preprints and work in preparation.
 
 <!-- Rider-NC -->
-<div class="featured-item">
+<div class="featured-item featured-item--article-preview">
   <a class="featured-item__media" href="https://www.nature.com/articles/s41467-026-77183-y" target="_blank" aria-label="Read the Nature Communications RNA virus discovery paper">
     <img class="featured-item__image featured-item__image--screenshot" src="https://gaoyangluo.github.io/images/artiles/rider_nature_communications.png" alt="Nature Communications Rider article">
     <span class="featured-item__overlay">Read publication <i class="fas fa-arrow-up-right-from-square" aria-hidden="true"></i></span>
@@ -195,37 +195,10 @@ Open-source research software.
 </div>
 
 <div class="visitor-map" aria-label="World map of approximate visitor locations">
-  <a href="https://mapmyvisitors.com/web/1c841" target="_blank" rel="noopener noreferrer">
-    <img id="visitor-map-image" src="https://mapmyvisitors.com/map.png?d=iATuYncQP0nXQp_VEbKPNmoy_uGx5yI6wuNV37Uw1Vk&amp;cl=ffffff" alt="World map of approximate visitor locations" decoding="async">
-  </a>
-  <p id="visitor-map-status" role="status">Loading visitor map…</p>
-  <a class="visitor-map__stats" href="https://mapmyvisitors.com/web/1c841" target="_blank" rel="noopener noreferrer">View visitor statistics ↗</a>
+  <script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?d=iATuYncQP0nXQp_VEbKPNmoy_uGx5yI6wuNV37Uw1Vk&amp;cl=ffffff&amp;w=a"></script>
 </div>
 
 <script>
-  (function () {
-    var image = document.getElementById('visitor-map-image');
-    var status = document.getElementById('visitor-map-status');
-    function showUnavailable() {
-      image.hidden = true;
-      status.hidden = false;
-      status.textContent = 'Visitor map is temporarily unavailable. Please try again later.';
-    }
-    var timeout = window.setTimeout(showUnavailable, 12000);
-    function updateMap() {
-      window.clearTimeout(timeout);
-      if (image.naturalWidth > 0) {
-        image.hidden = false;
-        status.hidden = true;
-      } else {
-        showUnavailable();
-      }
-    }
-    image.addEventListener('load', updateMap);
-    image.addEventListener('error', updateMap);
-    if (image.complete) updateMap();
-  }());
-
   (function () {
     var attempts = 0;
     var timer = window.setInterval(function () {
