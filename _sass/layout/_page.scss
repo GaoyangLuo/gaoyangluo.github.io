@@ -355,7 +355,6 @@
 
 .visitor-map {
   max-width: 620px;
-  min-height: 250px;
   margin: 0.65em 0 0;
   overflow: hidden;
 
@@ -363,6 +362,24 @@
   iframe,
   canvas {
     max-width: 100%;
+  }
+
+  img {
+    height: auto;
+  }
+
+  [hidden] {
+    display: none !important;
+  }
+
+  p,
+  .visitor-map__stats {
+    font-size: 0.8em;
+  }
+
+  p {
+    margin: 0.5em 0;
+    color: var(--global-base-color);
   }
 }
 
@@ -421,6 +438,11 @@
   object-fit: cover;
   object-position: center;
   transition: transform 180ms ease;
+}
+
+.featured-item__image--screenshot {
+  object-fit: contain;
+  background: #fff;
 }
 
 .featured-item__overlay {
