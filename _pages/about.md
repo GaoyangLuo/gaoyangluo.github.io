@@ -184,7 +184,7 @@ Open-source research software.
 ## <i class="fas fa-graduation-cap section-icon" aria-hidden="true"></i> Education
 <ul class="timeline-list">
   <li><time>2025.06 – Present</time><span><strong>PhD</strong>, University of New South Wales (UNSW)</span></li>
-  <li><time>2020.09 – 2023.06</time><span><strong>MPhil</strong>, Harbin Institute of Technology (HIT)</span></li>
+  <li><time>2020.09 – 2023.06</time><span><strong>MEng</strong>, Harbin Institute of Technology (HIT)</span></li>
   <li><time>2016.09 – 2020.06</time><span><strong>BSc</strong>, Jilin Agricultural University (JLAU)</span></li>
 </ul>
 
