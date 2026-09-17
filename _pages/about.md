@@ -41,6 +41,7 @@ My research sits at the intersection of AI and biology, spanning three connected
 ## <i class="fas fa-bullhorn section-icon" aria-hidden="true"></i> News
 <div class="news-feed">
   <ul>
+    <li><time class="news-date" datetime="2026-09">2026.09</time><span><span class="news-celebration" aria-label="celebration">🎉🎉🎉</span> Our Rider work is now published in <strong>Nature Communications</strong>: <em>Deep learning coupled with scalable domain-specific structural validation expands RNA virus discovery from metatranscriptomes</em> <span class="news-tag news-tag--nature"><span class="news-tag__pulse" aria-hidden="true"></span>Nature Portfolio</span>.</span></li>
     <li><time class="news-date" datetime="2026-08">2026.08</time><span><span class="news-celebration" aria-label="celebration">🎉🎉🎉</span> Our work on deep-learning-based RNA virus discovery, <em>Deep learning coupled with scalable domain-specific structural validation expands RNA virus discovery from metatranscriptomes</em>, was accepted by <strong>Nature Communications</strong> <span class="news-tag news-tag--nature"><span class="news-tag__pulse" aria-hidden="true"></span>Nature Portfolio</span>.</span></li>
     <li><time class="news-date" datetime="2026-06">2026.06</time><span><span class="news-symbol" aria-hidden="true">🎓</span> Started research internships at <strong>Shanghai AI Laboratory</strong> and <strong>Fudan University</strong>.</span></li>
     <li><time class="news-date" datetime="2025-05">2025.05</time><span><span class="news-symbol" aria-hidden="true">✈️</span> Moved to Sydney and joined the <strong>University of New South Wales (UNSW)</strong>.</span></li>
@@ -62,7 +63,7 @@ My research sits at the intersection of AI and biology, spanning three connected
 ## <i class="fas fa-file-lines section-icon" aria-hidden="true"></i> Selected Publications
 Selected publications, including preprints and work in preparation.
 
-<!-- Rider-article -->
+<!-- Rider-bioRxiv -->
 <div class="featured-item">
   <a class="featured-item__media" href="https://www.biorxiv.org/content/10.1101/2025.11.24.690314v1" target="_blank" aria-label="Read the RNA virus discovery paper">
     <img class="featured-item__image" src="https://gaoyangluo.github.io/images/artiles/rider_experiment.png" alt="RNA virus discovery workflow">
@@ -71,8 +72,22 @@ Selected publications, including preprints and work in preparation.
   <div class="featured-item__body">
     <h3 class="featured-item__title"><a href="https://www.biorxiv.org/content/10.1101/2025.11.24.690314v1" target="_blank">Expanding the RNA Virus Universe by Deep Learning Discovery</a></h3>
     <p class="featured-item__authors"><strong>Gaoyang Luo</strong>, Zelin Zang, Ling Yuan, Jingbo Zhou, Ao Dong, Yufei Huang, Stan Z. Li, Feng Ju*</p>
-    <p class="featured-item__venue">Nature Communications <span>First author</span> <span>Accepted · 2026</span> <span>JIF 18.1 (2025)</span> <span>Nature Index journal</span></p>
-    <p class="featured-item__summary">Deep-learning-based discovery of RNA viruses.</p>
+    <p class="featured-item__venue">bioRxiv preprint <span>First author</span> <span>2025</span></p>
+    <p class="featured-item__summary">Preprint version of the Rider framework for deep-learning-based RNA virus discovery.</p>
+  </div>
+</div>
+
+<!-- Rider-NC -->
+<div class="featured-item">
+  <a class="featured-item__media" href="https://www.nature.com/articles/s41467-026-77183-y" target="_blank" aria-label="Read the Nature Communications RNA virus discovery paper">
+    <img class="featured-item__image" src="https://gaoyangluo.github.io/images/artiles/rider_nature_communications.png" alt="Nature Communications Rider article">
+    <span class="featured-item__overlay">Read publication <i class="fas fa-arrow-up-right-from-square" aria-hidden="true"></i></span>
+  </a>
+  <div class="featured-item__body">
+    <h3 class="featured-item__title"><a href="https://www.nature.com/articles/s41467-026-77183-y" target="_blank">Deep learning coupled with scalable domain-specific structural validation expands RNA virus discovery from metatranscriptomes</a></h3>
+    <p class="featured-item__authors"><strong>Gaoyang Luo</strong>, Zelin Zang, Ling Yuan, Jingbo Zhou, Ao Dong, Yufei Huang, Stan Z. Li, Feng Ju*</p>
+    <p class="featured-item__venue">Nature Communications <span>First author</span> <span>2026</span> <span>JIF 18.1 (2025)</span> <span>Nature Index journal</span></p>
+    <p class="featured-item__summary">Rider combines deep representation learning with scalable RdRp structural validation to expand RNA virus discovery.</p>
   </div>
 </div>
 
