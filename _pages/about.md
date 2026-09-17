@@ -63,20 +63,6 @@ My research sits at the intersection of AI and biology, spanning three connected
 ## <i class="fas fa-file-lines section-icon" aria-hidden="true"></i> Selected Publications
 Selected publications, including preprints and work in preparation.
 
-<!-- Rider-bioRxiv -->
-<div class="featured-item">
-  <a class="featured-item__media" href="https://www.biorxiv.org/content/10.1101/2025.11.24.690314v1" target="_blank" aria-label="Read the RNA virus discovery paper">
-    <img class="featured-item__image" src="https://gaoyangluo.github.io/images/artiles/rider_experiment.png" alt="RNA virus discovery workflow">
-    <span class="featured-item__overlay">Read publication <i class="fas fa-arrow-up-right-from-square" aria-hidden="true"></i></span>
-  </a>
-  <div class="featured-item__body">
-    <h3 class="featured-item__title"><a href="https://www.biorxiv.org/content/10.1101/2025.11.24.690314v1" target="_blank">Expanding the RNA Virus Universe by Deep Learning Discovery</a></h3>
-    <p class="featured-item__authors"><strong>Gaoyang Luo</strong>, Zelin Zang, Ling Yuan, Jingbo Zhou, Ao Dong, Yufei Huang, Stan Z. Li, Feng Ju*</p>
-    <p class="featured-item__venue">bioRxiv preprint <span>First author</span> <span>2025</span></p>
-    <p class="featured-item__summary">Preprint version of the Rider framework for deep-learning-based RNA virus discovery.</p>
-  </div>
-</div>
-
 <!-- Rider-NC -->
 <div class="featured-item">
   <a class="featured-item__media" href="https://www.nature.com/articles/s41467-026-77183-y" target="_blank" aria-label="Read the Nature Communications RNA virus discovery paper">
@@ -88,6 +74,20 @@ Selected publications, including preprints and work in preparation.
     <p class="featured-item__authors"><strong>Gaoyang Luo</strong>, Zelin Zang, Ling Yuan, Jingbo Zhou, Ao Dong, Yufei Huang, Stan Z. Li, Feng Ju*</p>
     <p class="featured-item__venue">Nature Communications <span>First author</span> <span>2026</span> <span>JIF 18.1 (2025)</span> <span>Nature Index journal</span></p>
     <p class="featured-item__summary">Rider combines deep representation learning with scalable RdRp structural validation to expand RNA virus discovery.</p>
+  </div>
+</div>
+
+<!-- Rider-bioRxiv -->
+<div class="featured-item">
+  <a class="featured-item__media" href="https://www.biorxiv.org/content/10.1101/2025.11.24.690314v1" target="_blank" aria-label="Read the RNA virus discovery preprint">
+    <img class="featured-item__image" src="https://gaoyangluo.github.io/images/artiles/rider_experiment.png" alt="RNA virus discovery workflow">
+    <span class="featured-item__overlay">Read preprint <i class="fas fa-arrow-up-right-from-square" aria-hidden="true"></i></span>
+  </a>
+  <div class="featured-item__body">
+    <h3 class="featured-item__title"><a href="https://www.biorxiv.org/content/10.1101/2025.11.24.690314v1" target="_blank">Expanding the RNA Virus Universe by Deep Learning Discovery</a></h3>
+    <p class="featured-item__authors"><strong>Gaoyang Luo</strong>, Zelin Zang, Ling Yuan, Jingbo Zhou, Ao Dong, Yufei Huang, Stan Z. Li, Feng Ju*</p>
+    <p class="featured-item__venue">bioRxiv preprint <span>First author</span> <span>2025</span></p>
+    <p class="featured-item__summary">Preprint version of the Rider framework for deep-learning-based RNA virus discovery.</p>
   </div>
 </div>
 
