@@ -154,15 +154,6 @@ Open-source research software.
 
 <div class="resource-grid" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 16px; margin: 0.8em 0 2em;">
   <section class="resource-card" style="display: flex; gap: 14px; padding: 18px; background: #f8fafb; border: 1px solid #e1e6e9; border-radius: 8px;">
-    <i class="fas fa-water" aria-hidden="true" style="width: 26px; color: #2f7f93; font-size: 20px; text-align: center;"></i>
-    <div>
-      <h3 style="margin: 0; font-size: 16px; line-height: 1.35;"><a href="https://gwpd.hitsz.edu.cn/" target="_blank" rel="noopener noreferrer">Global Water Pathogen Database (GWPD)</a></h3>
-      <p style="margin: 6px 0 0; color: #667085; font-size: 13px; line-height: 1.55;">An open resource for waterborne pathogens and related knowledge. <strong>Contributing researcher.</strong></p>
-      <p style="margin: 8px 0 0; font-size: 13px;"><a href="https://gwpd.hitsz.edu.cn/" target="_blank" rel="noopener noreferrer">Visit GWPD <i class="fas fa-arrow-up-right-from-square" aria-hidden="true"></i></a></p>
-    </div>
-  </section>
-
-  <section class="resource-card" style="display: flex; gap: 14px; padding: 18px; background: #f8fafb; border: 1px solid #e1e6e9; border-radius: 8px;">
     <i class="fas fa-dna" aria-hidden="true" style="width: 26px; color: #2f7f93; font-size: 20px; text-align: center;"></i>
     <div>
       <h3 style="margin: 0; font-size: 16px; line-height: 1.35;"><a href="https://doi.org/10.5281/zenodo.19247869" target="_blank" rel="noopener noreferrer">Rider RdRp Structure Database</a></h3>
@@ -177,6 +168,15 @@ Open-source research software.
       <h3 style="margin: 0; font-size: 16px; line-height: 1.35;"><a href="https://zenodo.org/records/8073486" target="_blank" rel="noopener noreferrer">CompRanking Alignment Database</a></h3>
       <p style="margin: 6px 0 0; color: #667085; font-size: 13px; line-height: 1.55;">Version 1.1 curated alignment database for comparative antimicrobial-resistance analysis.</p>
       <p style="margin: 8px 0 0; font-size: 13px;"><a href="https://zenodo.org/records/8073486" target="_blank" rel="noopener noreferrer">View on Zenodo <i class="fas fa-arrow-up-right-from-square" aria-hidden="true"></i></a></p>
+    </div>
+  </section>
+
+  <section class="resource-card" style="display: flex; gap: 14px; padding: 18px; background: #f8fafb; border: 1px solid #e1e6e9; border-radius: 8px;">
+    <i class="fas fa-water" aria-hidden="true" style="width: 26px; color: #2f7f93; font-size: 20px; text-align: center;"></i>
+    <div>
+      <h3 style="margin: 0; font-size: 16px; line-height: 1.35;"><a href="https://gwpd.hitsz.edu.cn/" target="_blank" rel="noopener noreferrer">Global Water Pathogen Database (GWPD)</a></h3>
+      <p style="margin: 6px 0 0; color: #667085; font-size: 13px; line-height: 1.55;">An open resource for waterborne pathogens and related knowledge. <strong>Contributing researcher.</strong></p>
+      <p style="margin: 8px 0 0; font-size: 13px;"><a href="https://gwpd.hitsz.edu.cn/" target="_blank" rel="noopener noreferrer">Visit GWPD <i class="fas fa-arrow-up-right-from-square" aria-hidden="true"></i></a></p>
     </div>
   </section>
 </div>
