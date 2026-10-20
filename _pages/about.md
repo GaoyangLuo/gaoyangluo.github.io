@@ -16,8 +16,6 @@ My long-term vision is to build AI-driven digital twins of human health by integ
 
 <p class="contact-links"><i class="fas fa-address-card" aria-hidden="true"></i>
   <a href="{{ base_path }}/contact/">Email</a>
-  <span aria-hidden="true"> · </span>
-  <a href="{{ base_path }}/images/wechat.jpg" target="_blank" rel="noopener">WeChat</a>
 </p>
 
 ## <i class="fas fa-microscope section-icon" aria-hidden="true"></i> Research Interests
