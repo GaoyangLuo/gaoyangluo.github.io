@@ -8,31 +8,34 @@ redirect_from:
 ---
 
 ## <i class="fas fa-user section-icon" aria-hidden="true"></i> About
-I work on AI for Biology, building biological foundation models and computational infrastructure toward AI-driven digital twins. My current projects include microbiome foundation models and interpretable multi-omic sequence-to-function models.
+My research focuses on **AI for virtual cells**. I model cell states with the long-term goal of building a world model that can predict how cells respond to changing conditions. I also train foundation models for microbial communities to study how the microbiome relates to human health.
 
-I am a PhD researcher at the University of New South Wales (UNSW), fully funded by the University, conducting research at the [Victor Chang Cardiac Research Institute](https://www.victorchang.org.au/). I am also a research intern at [Shanghai AI Laboratory](https://www.shlab.org.cn/), working with [A/Prof. Siqi Sun](https://beamlab.ai/) in the [BEAM Lab](https://beamlab.ai/), and a long-term visiting researcher at the [Artificial Intelligence Research and Innovation (CAIRI Lab)](https://www.westlake.edu.cn/), led by [Prof. Stan Z. Li](https://scholar.google.com/citations?user=Y-nyLGIAAAAJ&hl=zh-CN) (IEEE Fellow).
+I am a PhD researcher at the University of New South Wales (UNSW). UNSW fully funds my doctoral research, which I carry out at the [Victor Chang Cardiac Research Institute](https://www.victorchang.org.au/). As a research intern at [Shanghai AI Laboratory](https://www.shlab.org.cn/), I work with [A/Prof. Siqi Sun](https://beamlab.ai/) in the [BEAM Lab](https://beamlab.ai/). I am also a long-term visiting researcher at Westlake University's [CAIRI Lab](https://www.westlake.edu.cn/), led by [Prof. Stan Z. Li](https://scholar.google.com/citations?user=Y-nyLGIAAAAJ&hl=zh-CN) (IEEE Fellow).
 
-My long-term vision is to build AI-driven digital twins of human health by integrating genomic, molecular, microbial, and clinical information across biological scales.
+My broader goal is to build digital twins of human health that bring genomic, molecular, and microbiome data together with clinical information.
 
 <p class="contact-links"><i class="fas fa-address-card" aria-hidden="true"></i>
   <a href="{{ base_path }}/contact/">Email</a>
 </p>
 
 ## <i class="fas fa-microscope section-icon" aria-hidden="true"></i> Research Interests
-My research sits at the intersection of AI and biology, spanning three connected directions:
 
 <div class="interest-list">
   <article class="interest-item">
-    <h3>Interpretable Sequence-to-Function Models</h3>
-    <p>Interpretable sequence-to-function models that connect DNA sequence, chromatin accessibility, gene expression, and cellular state.</p>
+    <h3>AI for Virtual Cells</h3>
+    <p>I study how molecular measurements can be used to represent a cell’s state and predict how it changes.</p>
   </article>
   <article class="interest-item">
     <h3>Biological Foundation Models</h3>
-    <p>Foundation and representation models for microbial communities, multi-omic data, and biological sequences.</p>
+    <p>I train foundation models to learn patterns in microbial communities, biological sequences, and multi-omic data.</p>
+  </article>
+  <article class="interest-item">
+    <h3>Sequence-to-Function Models</h3>
+    <p>I fine-tune models that predict biological function from sequence and study which sequence features explain their predictions.</p>
   </article>
   <article class="interest-item">
     <h3>AI for Molecular &amp; Viral Discovery</h3>
-    <p>Protein structure prediction and RNA virus identification from sequence and structural information.</p>
+    <p>I combine protein structure prediction with sequence analysis to identify RNA viruses.</p>
   </article>
 </div>
 
