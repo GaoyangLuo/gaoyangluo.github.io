@@ -31,7 +31,7 @@ My broader goal is to build digital twins of human health that bring genomic, mo
   </article>
   <article class="interest-item">
     <h3>Sequence-to-Function Models</h3>
-    <p>I fine-tune models that predict biological function from sequence and study which sequence features explain their predictions.</p>
+    <p>I study how models predict biological function from sequence and which sequence features guide their predictions.</p>
   </article>
   <article class="interest-item">
     <h3>AI for Molecular &amp; Viral Discovery</h3>
